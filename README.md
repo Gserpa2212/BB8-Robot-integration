@@ -8,7 +8,7 @@ The project placed 2nd overall in the competition.
 
 The robot is controlled wirelessly through a Bluetooth module connected to an Arduino, allowing real-time user input from a mobile device. A differential drive system inside the sphere enables the robot to move forward, backward, and turn.
 
-![Internal Structure](robot internals.JPG)
+![Internal Structure](robot internals.jpg)
 
 System Overview
 
