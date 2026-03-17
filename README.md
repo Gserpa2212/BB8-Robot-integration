@@ -7,6 +7,7 @@ The system recreates the BB8 robot from Star Wars using a spherical drive mechan
 The project placed 2nd overall in the competition.
 
 The robot is controlled wirelessly through a Bluetooth module connected to an Arduino, allowing real-time user input from a mobile device. A differential drive system inside the sphere enables the robot to move forward, backward, and turn.
+
 ![Internal Structure](20251204_093212.jpg)
 
 System Overview
